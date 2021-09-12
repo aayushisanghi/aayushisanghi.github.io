@@ -1,0 +1,17 @@
+{
+	"work_experience": [{
+		"Company": "Intuit",
+		"Role": "Software Development Engineer",
+		"Start_Data": "January 2020",
+		"End_Date": "July 2021",
+		"Description":"xyz"
+	},
+	{
+		"Company": "NTT Data",
+		"Role": "Deep Learning Intern",
+		"Start_Data": "June 2019",
+		"End_Date": "August 2019",
+		"Description":"xyz"
+	}
+	]
+}
