@@ -2,7 +2,7 @@
 	"work_experience": [{
 		"Company": "Intuit",
 		"Role": "Software Development Engineer",
-		"What I did here":" - Designed a plugin, using React, for QuickBooks Online, allowing users to upload and tailor invoices, attracting over 10,000 users.
+		"Description":" - Designed a plugin, using React, for QuickBooks Online, allowing users to upload and tailor invoices, attracting over 10,000 users.
 		- Used RxJava to optimize the data ingestion process for the Quickbooks reports engine, using in-memory database operations, support
 		for import of data from multiple resources, and making code execution reactive.
 		- Worked in the Global Identity Platform Team to pre-fill never-entered data using third party services. Was instrumental in
@@ -13,7 +13,7 @@
 	{
 		"Company": "NTT Data",
 		"Role": "Deep Learning Intern",
-		"What I did here":"- Built Random Forest Classifiers and Vanilla Neural Networks to predict acceptance or denial reason for an insurance claim for the Data Intelligence & AI Platform (HEURI). Achieved accuracies of over 90% on ~4 million records. Models were used in production.
+		"Description":"- Built Random Forest Classifiers and Vanilla Neural Networks to predict acceptance or denial reason for an insurance claim for the Data Intelligence & AI Platform (HEURI). Achieved accuracies of over 90% on ~4 million records. Models were used in production.
 		"
 	}
 	]
